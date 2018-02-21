@@ -19,3 +19,4 @@
 调整函数 jump_to_next 里的变量 phone（默认为2）的值，<br>
 在手机上测试，更改至适合的值。
 ====
+![image](https://github.com/HiBugs/Pictures/blob/master/WechatJump.png)
